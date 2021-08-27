@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.977.0",
+    "aws-serverless-express": "^3.4.0",
     "cors": "^2.8.5",
+    "ethers": "^5.4.5",
     "express": "^4.17.1",
-    "pure-random-number": "^2.1.0"
+    "sodium-native": "^3.2.1"
   }
 }
