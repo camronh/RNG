@@ -1,6 +1,6 @@
-# CSPRNG API
+# Web3 CSPRNG API
 
-> A Cryptographically Secure Psuedo-Random Number Generation Web3 API
+> A Cryptographically Secure Psuedo-Random Number Generation Web3 API Powered by [Airnode](https://docs.api3.org/pre-alpha/airnode/design-philosophy.html)
 
 [Postman API Documentation](https://documenter.getpostman.com/view/10878361/TzzHkst7#intro)
 
